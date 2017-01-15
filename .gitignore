@@ -1,1 +1,2 @@
 *.pyc
+/gamesapi/gamesapi/__pycache__/*
