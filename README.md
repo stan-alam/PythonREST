@@ -4,7 +4,7 @@ the consuming application is able to fetch a resource using JSON with HTTP:GET/P
 
     The primary goal is to create a Nintendo 8 bit gaming catalog
 
-    Updates and documentation is available through an incremental process on the develop branch.
+    Updates and documentation is available on the develop branch and will be incremented accordingly
 
     These APIs will follow strictly REST specifications and will be documented against
 
