@@ -10,4 +10,4 @@ the consuming application is able to fetch a resource using JSON with HTTP:GET/P
 
     these specifications along with best practices.
 
-    I will also include some Test Driven development practices when applicable.
+    I will also include Test Driven development practices when and where applicable.
